@@ -1,4 +1,4 @@
-# tutorial_git
+# Tutorial: Git
 <h1>Step-by-step guide</h1>
 
 1. Git: <a href="https://medium.com/@mikaileliyah/git-setting-up-1a3f5f65b304">Setting Up</a>
