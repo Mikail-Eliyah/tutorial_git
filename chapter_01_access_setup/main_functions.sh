@@ -53,7 +53,7 @@ function set_git_user_profile() {
 	git config --global user.email $email_address
 	# git config --global --replace-all user.name $id_git	
 	#git config --global core.editor vim
-	#git config --global merge.tool vimdiff
+	#git config --global merge.tool vimdiff # Set default merge tool. Git does not provide a default merge tool for integrating conflicting changes into working tree
 	
 	# enable color highlighting for Git in console.
 	git config --global color.ui true
