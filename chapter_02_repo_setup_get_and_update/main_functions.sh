@@ -49,6 +49,7 @@ function repo_update_all_files_and_push_to_remote(){
 	
 	git commit -a -m $message_comments
 	git push -u origin master
+	# git push --force -u origin master
 }
 
 function set_up_repo_folder () {
